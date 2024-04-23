@@ -12,10 +12,6 @@
 - Análise de Dados | Modelagem | R | BI | Python | Big Data | SQL | Machine Learning
 - Google Tag Manager | GA4 | Facebook Ads | Google Ads | Google Merchant | TikTok | RD Station | HubSpot
 
-#### Projetos
-
-- ✨ [Projeto Público](https://github.com/fabiooliveir/public): Breve descrição ou nome do projeto.
-
 #### Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=fabiooliveir&show_icons=true&theme=dark)

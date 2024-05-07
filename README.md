@@ -1,24 +1,23 @@
-### Olá, eu sou Fábio Nascimento! 👋
+# Fábio Nascimento
 
-#### Sobre mim
+## Sobre mim
+- **Cargo:** Analista de Dados de Marketing na Leadfy.me
+- **Formação:** Cursando Data Science Full Stack na Escola DNC
+- **Linguagens:** Python, SQL
+- **Interesses:** Ciência de Dados, Modelagem, Marketing Digital
 
-- 🔭 Atualmente trabalho como Analista de Dados de Marketing na Leadfy.me.
-- 🌱 Estou estudando Data Science Full Stack na Escola DNC.
-- 💻 Tenho experiência em estratégias de tráfego pago e análise de dados.
-- 🤝 Sou colaborativo e orientado a resultados.
+## Projetos em Destaque
+- [Facebook Leads API](https://github.com/fabiooliveir/facebook-leads-api): Este repositório contém um notebook em Python que demonstra como extrair leads dos formulários de geração de leads da página do Facebook utilizando a API do Facebook.
 
-#### Habilidades
+## Estudos Atuais
+### Temas
+- **Marketing Digital:** Estratégias de tráfego pago, análise de dados para otimização de campanhas.
+- **Ciência de Dados:** Machine learning, modelagem preditiva, análise exploratória de dados.
+- **Desenvolvimento:** Automação de processos, integração de APIs.
 
-- Análise de Dados | Modelagem | R | BI | Python | Big Data | SQL | Machine Learning
-- Google Tag Manager | GA4 | Facebook Ads | Google Ads | Google Merchant | TikTok | RD Station | HubSpot
+### Linguagens e Bibliotecas
+- **Python:** Pandas, NumPy, Scikit-learn, TensorFlow.
 
-#### Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=fabiooliveir&show_icons=true&theme=dark)
-
-#### Entre em Contato
-
-- LinkedIn: https://www.linkedin.com/in/brazilian-analytics-pro/
-- ...
-
-#### Obrigado por visitar meu perfil! 😊
+## Contato
+- **LinkedIn:** [Fábio Nascimento](https://www.linkedin.com/in/brazilian-analytics-pro/)
+- **E-mail:** fboliveiran@@gmail.com

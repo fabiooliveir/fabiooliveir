@@ -16,7 +16,7 @@
 - **Desenvolvimento:** Automação de processos, integração de APIs.
 
 ### Linguagens e Bibliotecas
-- **Python:** Pandas, NumPy, Scikit-learn, TensorFlow.
+- **Python:** Pandas, NumPy, Scikit-learn, TensorFlow, Seaborn, Matplotlib.
 
 ## Contato
 - **LinkedIn:** [Fábio Nascimento](https://www.linkedin.com/in/brazilian-analytics-pro/)

@@ -7,7 +7,9 @@
 - **Interesses:** Ciência de Dados, Modelagem, Marketing Digital
 
 ## Projetos em Destaque
-- [Facebook Leads API](https://github.com/fabiooliveir/facebook-leads-api): Este repositório contém um notebook em Python que demonstra como extrair leads dos formulários de geração de leads da página do Facebook utilizando a API do Facebook.
+- [Facebook API](https://github.com/fabiooliveir/facebook-api): Este repositório contém um notebook em Python que demonstra como extrair leads dos formulários de geração de leads da página do Facebook utilizando a API do Facebook.
+
+- [Exercícios e Desafios da Escola DNC](https://github.com/fabiooliveir/exercicios_dnc): ste repositório contém os exercícios e desafios que eu fiz durante meu curso na Escola DNC. Cada pasta neste repositório corresponde a um exercício ou desafio específico e contém os arquivos relacionados a ele.
 
 ## Estudos Atuais
 ### Temas

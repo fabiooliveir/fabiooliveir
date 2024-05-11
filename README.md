@@ -14,6 +14,7 @@ Meu objetivo é continuar crescendo profissionalmente na área de ciência de da
 
 - Python
 - SQL
+- Pandas
 
 # Aprendendo Atualmente
 

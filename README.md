@@ -1,25 +1,25 @@
-# Fábio Nascimento
+# Sobre Mim
 
-## Sobre mim
-- **Cargo:** Analista de Dados de Marketing na Leadfy.me
-- **Formação:** Cursando Data Science Full Stack na Escola DNC
-- **Linguagens:** Python, SQL
-- **Interesses:** Ciência de Dados, Modelagem, Marketing Digital
+Olá! Sou o Fábio, um estudante dedicado e apaixonado por ciência de dados e estratégias de tráfego pago. Com mais de 3 anos de experiência em tráfego pago, adquiri profundo conhecimento em ferramentas como Google Tag Manager, GA4, Facebook Ads, Google Ads, Google Merchant, TikTok, RD Station e HubSpot.
 
-## Projetos em Destaque
-- [Facebook API](https://github.com/fabiooliveir/facebook-api): Este projeto apresenta exemplos de consultas na API do Facebook utilizando Python. Cada arquivo neste repositório representa um tipo de consulta diferente. Abaixo estão os detalhes de cada consulta:
+Atualmente, estou ampliando meus conhecimentos como Analista de Dados de Marketing na Leadfy.me, onde utilizo minha experiência em tráfego pago para aprimorar estratégias de marketing baseadas em análise de dados. Minha habilidade em transformar informações complexas em insights valiosos tem sido um diferencial em projetos anteriores e atualmente na Leadfy.me.
 
-- [Exercícios e Desafios da Escola DNC](https://github.com/fabiooliveir/exercicios_dnc): ste repositório contém os exercícios e desafios que eu fiz durante meu curso na Escola DNC. Cada pasta neste repositório corresponde a um exercício ou desafio específico e contém os arquivos relacionados a ele.
+Estou em constante aprimoramento na Escola DNC, onde estou cursando Data Science Full Stack. Fora do ambiente profissional, mantenho-me atualizado com as últimas tendências e desenvolvimentos na área de ciência de dados, buscando sempre expandir meu conhecimento.
 
-## Estudos Atuais
-### Temas
-- **Marketing Digital:** Estratégias de tráfego pago, análise de dados para otimização de campanhas.
-- **Ciência de Dados:** Machine learning, modelagem preditiva, análise exploratória de dados.
-- **Desenvolvimento:** Automação de processos, integração de APIs.
+# Objetivos
 
-### Linguagens e Bibliotecas
-- **Python:** Pandas, NumPy, Scikit-learn, TensorFlow, Seaborn, Matplotlib.
+Meu objetivo é continuar crescendo profissionalmente na área de ciência de dados, buscando oportunidades para aplicar meus conhecimentos e contribuir para projetos desafiadores.
 
-## Contato
-- **LinkedIn:** [Fábio Nascimento](https://www.linkedin.com/in/brazilian-analytics-pro/)
-- **E-mail:** fboliveiran@@gmail.com
+# Linguagens e Bibliotecas
+
+- Python
+- SQL
+
+# Aprendendo Atualmente
+
+Estou atualmente aprimorando minhas habilidades em modelagem de dados e machine learning, buscando aplicar esses conhecimentos em projetos práticos.
+
+# Contato
+
+Se você quiser entrar em contato comigo para colaborações ou apenas para trocar ideias, fique à vontade para me enviar um e-mail em fboliveiran@gmail.com.
+

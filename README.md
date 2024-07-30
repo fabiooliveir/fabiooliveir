@@ -1,13 +1,10 @@
 <h1 align="center">Olá! Eu sou o Fábio 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/seuusuario">
+  <a href="https://github.com/fabiooliveir">
     <img src="https://img.shields.io/github/followers/seuusuario?label=Seguidores&style=social" alt="Seguidores no GitHub">
   </a>
-  <a href="https://twitter.com/seuusuario">
-    <img src="https://img.shields.io/twitter/follow/seuusuario?style=social" alt="Seguidores no Twitter">
-  </a>
-  <a href="mailto:seuemail@example.com">
+   <a href="mailto:fboliveiran@gmail.com">
     <img src="https://img.shields.io/badge/Email-D1495B?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>

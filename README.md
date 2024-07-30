@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/fabiooliveir">
-    <img src="https://img.shields.io/github/followers/seuusuario?label=Seguidores&style=social" alt="Seguidores no GitHub">
+    <img src="https://img.shields.io/github/followers/fabiooliveir?label=Seguidores&style=social" alt="Seguidores no GitHub">
   </a>
    <a href="mailto:fboliveiran@gmail.com">
     <img src="https://img.shields.io/badge/Email-D1495B?style=flat&logo=gmail&logoColor=white" alt="Email">

@@ -1,22 +1,67 @@
-# Sobre Mim
+<h1 align="center">Olá! Eu sou o Fábio 👋</h1>
 
-Olá! Sou o Fábio, um estudante dedicado e apaixonado por ciência de dados e estratégias de tráfego pago. Com mais de 3 anos de experiência em tráfego pago, adquiri profundo conhecimento em ferramentas como Google Tag Manager, GA4, Facebook Ads, Google Ads, Google Merchant, TikTok, RD Station e HubSpot.
+<p align="center">
+  <a href="https://github.com/seuusuario">
+    <img src="https://img.shields.io/github/followers/seuusuario?label=Seguidores&style=social" alt="Seguidores no GitHub">
+  </a>
+  <a href="https://twitter.com/seuusuario">
+    <img src="https://img.shields.io/twitter/follow/seuusuario?style=social" alt="Seguidores no Twitter">
+  </a>
+  <a href="mailto:seuemail@example.com">
+    <img src="https://img.shields.io/badge/Email-D1495B?style=flat&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-# Objetivos
+---
 
-Meu objetivo é continuar crescendo profissionalmente na área de ciência de dados, buscando oportunidades para aplicar meus conhecimentos e contribuir para projetos desafiadores.
+## Sobre Mim 🙋‍♂️
 
-# Linguagens e Bibliotecas
+- 🎓 Formado em Ciências de Dados pela DNC.
+- 💼 Atualmente, trabalho com desenvolvimento de software e análise de dados.
+- 🧠 Sou apaixonado por inteligência artificial, ciência de dados, e tudo que envolva tecnologia.
+- 🌱 Estou sempre aprendendo novas tecnologias e buscando aprimorar minhas habilidades.
 
-- Python
-- SQL
-- Pandas
+## Habilidades 🛠️
 
-# Aprendendo Atualmente
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/-Matplotlib-339933?style=flat&logo=matplotlib&logoColor=white" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
+  <img src="https://img.shields.io/badge/-PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white" alt="PySpark">
+  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/-Serverless-FD5750?style=flat&logo=serverless&logoColor=white" alt="Serverless">
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VSCode">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+</p>
 
-Estou atualmente aprimorando minhas habilidades em modelagem de dados e machine learning, buscando aplicar esses conhecimentos em projetos práticos.
+## Projetos 🚀
 
-# Contato
+### [🔗 Projeto 1: Titanic Streamlit Project](https://github.com/fabiooliveir/titanic-streamlit)
+- **Descrição:** Este projeto é uma aplicação de análise de dados e aprendizado de máquina desenvolvida em Python usando o framework Streamlit. Ele explora o famoso dataset do Titanic, disponível no Kaggle, e permite que os usuários interajam com os dados para obter insights sobre o desastre do Titanic. A aplicação inclui visualizações de dados e uma previsão de sobrevivência usando um modelo de Regressão Logística..
+- **Tecnologias:** Python, Pandas, Matplotlib
 
-Se você quiser entrar em contato comigo para colaborações ou apenas para trocar ideias, fique à vontade para me enviar um e-mail em fboliveiran@gmail.com.
+## Contribuições 🏆
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=seuusuario&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+## Estatísticas do GitHub 📊
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=radical" alt="Linguagens Mais Usadas">
+</p>
+
+## Entre em Contato 📫
+
+- **Email:** [fboliveiran@gmail.com](fboliveiran@gmail.com)
+- **LinkedIn:** [Seu Nome](https://www.linkedin.com/in/brazilian-analytics-pro/)
+
+---
+
+<p align="center">
+  Feito com ❤️ por [Seu Nome]
+</p>

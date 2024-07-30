@@ -58,7 +58,7 @@
 ## Entre em Contato 📫
 
 - **Email:** [fboliveiran@gmail.com](fboliveiran@gmail.com)
-- **LinkedIn:** [Seu Nome](https://www.linkedin.com/in/brazilian-analytics-pro/)
+- **LinkedIn:** [Fábio Oliveira](https://www.linkedin.com/in/brazilian-analytics-pro/)
 
 ---
 

@@ -58,7 +58,3 @@
 - **LinkedIn:** [Fábio Oliveira](https://www.linkedin.com/in/brazilian-analytics-pro/)
 
 ---
-
-<p align="center">
-  Feito com ❤️ por [Seu Nome]
-</p>

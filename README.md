@@ -102,6 +102,26 @@ Atuo na interseção estratégica entre **Analytics de Produto**, **Governança 
 
 ---
 
+## 🌐 Open Source Contributions
+
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <h3 align="center">⚡ <a href="https://github.com/hostinger/api-mcp-server">Hostinger API MCP Server</a> · <a href="https://github.com/hostinger/api-mcp-server/pull/70">PR #70</a></h3>
+      <p><b>Contribuição no Core do Servidor MCP Oficial da Hostinger</b></p>
+      <p>Implementação de conformidade com a especificação oficial do <b>Model Context Protocol (MCP)</b>, garantindo que falhas de execução e erros de requisições HTTP retornem a flag <code>isError: true</code> com mensagens estruturadas para recuperação autônoma de modelos de IA. Cobertura com testes unitários para resiliência no runtime. Alterações aceitas pela engenharia da Hostinger e publicadas a partir da release oficial <b>v1.61.2</b>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/MCP-Protocol-10A37F?style=flat-square">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+        <img src="https://img.shields.io/badge/Hostinger-Official_Repo-673DE6?style=flat-square">
+        <img src="https://img.shields.io/badge/Release-v1.61.2-2EA44F?style=flat-square">
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🔄 Como Opero como FDE de IA (O Loop do Meio)
 
 ```
